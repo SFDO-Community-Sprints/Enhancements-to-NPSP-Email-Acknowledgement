@@ -18,7 +18,7 @@ Gather requirements for product and Power of Us Hub documentation
 We welcome contributions to this project. At present we need:
 
 * Requirements: Gather additional needs from nonprofits who use email acknowledgement
-* Solution design: Should this functionality continue as a workflow rule? Process builder? Flow?
+* Solution design: Should this functionality continue as a workflow rule? Lighhtning component? Process builder? Flow?
 * Developer: Create solution based on design
 
 ### Project Roadmap
