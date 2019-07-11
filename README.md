@@ -25,7 +25,9 @@ We welcome contributions to this project. At present we need:
 
 Product
 
-Allow the user to select additional email templates based on record type or a field on the Opportunity
+Allow the user to select additional email templates based on record type 
+
+Allow admins to select a field on the Opportunity that controls which email template is sent
 
 Add a confirmation message (whether you are sending from an individual record or list view) that alerts prior to email send: "Your message will be send XX email addresses. Click OK to Confirm and send Message"
 
