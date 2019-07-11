@@ -33,7 +33,7 @@ Documentation
 
 Update Hub article to use all Lightning images (can use Trailhead unit: https://trailhead.salesforce.com/en/content/learn/modules/donation-management-basics-with-nonprofit-success-pack/acknowledge-a-donation)
 
-Clarify that acknowledgement email will go to the (which) email address on the Contact record on Trailhead unit & Hub documentation.
+Clarify that acknowledgement email will go to the stanard email address field on the associated Primary Contact's record (both on Trailhead unit & Hub documentation).
 
 Add considerations for using NPSP Email acknowledgement to Hub article
 * platform email daily limit (5,000)  "List emails count against an org’s daily list email send limit, which is typically 5,000 emails per day. This limit doesn't include individual emails you send."
