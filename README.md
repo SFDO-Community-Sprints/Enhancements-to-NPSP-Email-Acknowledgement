@@ -36,5 +36,6 @@ Update Hub article to use all Lightning images (can use Trailhead unit: https://
 Clarify that acknowledgement email will go to the (which) email address on the Contact record on Trailhead unit & Hub documentation.
 
 Add considerations for using NPSP Email acknowledgement to Hub article
-* platform email daily limit (5,000)
-* multiple acknowledgement email types require filter to one record type only in list view
+* platform email daily limit (5,000)  "List emails count against an org’s daily list email send limit, which is typically 5,000 emails per day. This limit doesn't include individual emails you send."
+
+* multiple acknowledgement email types require filter to one record type only in list view "If a list view or multi-line view contains more than one record type, it can’t be edited inline. Edit your view so that it has only one record type to enable inline editing."
