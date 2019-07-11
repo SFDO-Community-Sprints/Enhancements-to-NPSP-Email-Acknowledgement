@@ -35,4 +35,4 @@ Clarify that acknowledgement email will go to the (which) email address on the C
 
 Add considerations for using NPSP Email acknowledgement to Hub article
 -platform email daily limit (5,000)
-
+-multiple acknowledgement email types require filter to one record type only in list view
