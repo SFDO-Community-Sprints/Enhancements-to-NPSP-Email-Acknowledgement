@@ -1,7 +1,7 @@
 ### Enhancements-to-NPSP-Email-Acknowledgement
 
 ### Project Description
-Let people know what your project can do and the intended benefits. 
+Gathering requirements and if possible, building additional open source functionality to enhance the NPSP Email Acknowledgement functionality.
 
 ### Project Audience
 All NPSP system administrators that would process email acknowledgements to donors (less than 5,000/day)
@@ -22,4 +22,17 @@ Solution design: Should this functionality continue as a workflow rule? Process 
 -Developer: Create solution based on design
 
 ### Project Roadmap
+
+Product
+Allow the user to select additional email templates based on record type or a field on the Opportunity
+
+Add a confirmation message (whether you are sending from an individual record or list view) that alerts prior to email send: "Your message will be send XX email addresses. Click OK to Confirm and send Message"
+
+Documentation
+Update Hub article to use all Lightning images (can use Trailhead unit: https://trailhead.salesforce.com/en/content/learn/modules/donation-management-basics-with-nonprofit-success-pack/acknowledge-a-donation)
+
+Clarify that acknowledgement email will go to the (which) email address on the Contact record on Trailhead unit & Hub documentation.
+
+Add considerations for using NPSP Email acknowledgement to Hub article
+-platform email daily limit (5,000)
 
