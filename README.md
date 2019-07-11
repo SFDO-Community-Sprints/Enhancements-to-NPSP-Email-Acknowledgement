@@ -12,7 +12,7 @@ All NPSP system administrators that would process email acknowledgements to dono
 * List of Contributors: Kristen Strater
 
 ### Project Team Accomplishments
-Gather requirements for product and for documentations
+Gather requirements for product and Power of Us Hub documentation
 
 ### Contributing
 We welcome contributions to this project. At present we need:
