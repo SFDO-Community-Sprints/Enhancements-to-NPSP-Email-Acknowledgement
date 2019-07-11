@@ -23,12 +23,14 @@ We welcome contributions to this project. At present we need:
 
 ### Project Roadmap
 
-- Product
+Product
+
 Allow the user to select additional email templates based on record type or a field on the Opportunity
 
 Add a confirmation message (whether you are sending from an individual record or list view) that alerts prior to email send: "Your message will be send XX email addresses. Click OK to Confirm and send Message"
 
-- Documentation
+Documentation
+
 Update Hub article to use all Lightning images (can use Trailhead unit: https://trailhead.salesforce.com/en/content/learn/modules/donation-management-basics-with-nonprofit-success-pack/acknowledge-a-donation)
 
 Clarify that acknowledgement email will go to the (which) email address on the Contact record on Trailhead unit & Hub documentation.
