@@ -17,9 +17,9 @@ Gather requirements for product and Power of Us Hub documentation
 ### Contributing
 We welcome contributions to this project. At present we need:
 
-*Requirements: Gather additional needs from nonprofits who use email acknowledgement
-*Solution design: Should this functionality continue as a workflow rule? Process builder? Flow?
-*Developer: Create solution based on design
+* Requirements: Gather additional needs from nonprofits who use email acknowledgement
+* Solution design: Should this functionality continue as a workflow rule? Process builder? Flow?
+* Developer: Create solution based on design
 
 ### Project Roadmap
 
@@ -34,5 +34,5 @@ Update Hub article to use all Lightning images (can use Trailhead unit: https://
 Clarify that acknowledgement email will go to the (which) email address on the Contact record on Trailhead unit & Hub documentation.
 
 Add considerations for using NPSP Email acknowledgement to Hub article
-*platform email daily limit (5,000)
-*multiple acknowledgement email types require filter to one record type only in list view
+* platform email daily limit (5,000)
+* multiple acknowledgement email types require filter to one record type only in list view
