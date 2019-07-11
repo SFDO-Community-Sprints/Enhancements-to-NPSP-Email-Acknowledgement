@@ -36,6 +36,8 @@ Update Hub article to use all Lightning images (can use Trailhead unit: https://
 Clarify that acknowledgement email will go to the stanard email address field on the associated Primary Contact's record (both on Trailhead unit & Hub documentation).
 
 Add considerations for using NPSP Email acknowledgement to Hub article
+* update primary contact's email address before sending acknowledgement - link to Article: "https://powerofus.force.com/s/article/NPSP-Preferred-Phone-Email"
+
 * platform email daily limit (5,000)  "List emails count against an org’s daily list email send limit, which is typically 5,000 emails per day. This limit doesn't include individual emails you send."
 
 * multiple acknowledgement email types require filter to one record type only in list view "If a list view or multi-line view contains more than one record type, it can’t be edited inline. Edit your view so that it has only one record type to enable inline editing."
