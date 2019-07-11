@@ -1,4 +1,4 @@
-### Project Name
+### Enhancements-to-NPSP-Email-Acknowledgement
 Choose a self-explaining name for your project.
 
 ### Project Description
