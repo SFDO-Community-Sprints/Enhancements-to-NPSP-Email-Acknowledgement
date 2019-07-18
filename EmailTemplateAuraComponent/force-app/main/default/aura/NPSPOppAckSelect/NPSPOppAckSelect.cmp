@@ -1,0 +1,25 @@
+<aura:component implements="flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,force:hasRecordId,force:lightningQuickAction"
+                			access="global" controller="fetchEmailTemplates">
+
+    <!-- Handle component initialization in a client-side controller -->
+    <aura:handler name="init" value="{!this}" action="{!c.doInit}"/>    
+    <!-- Dynamically load the list of email templates -->
+    <aura:attribute name="templates" type="EmailTemplate[]"/>
+    <aura:attribute name="templateList" type="EmailTemplate[]"/>
+    <aura:attribute name="selectedValue" type="EmailTemplate"/>
+    <!-- Body with dropdown menu and list of email templates -->
+    <lightning:select name="mySelect" label="Select email template" aura:id="mySelect" value="{!v.selectedValue}"
+                      onchange="{!c.handleSelect}" class="slds-m-bottom_medium">
+        <option value="">-- None --</option>
+        <aura:iteration items="{!v.templates}" var="template">
+		<option text="{!template.label}" value="{!template.value}" selected="{!template.selected}"/>
+            {!template.Name}<br/>
+        </aura:iteration>
+    </lightning:select>
+    
+    <!-- Test display - START -->
+        <aura:iteration items="{!v.templates}" var="template">
+            {!template.Name}<br/>
+        </aura:iteration>    
+   <!-- Test display - -END- -->
+</aura:component>
