@@ -9,7 +9,7 @@ All NPSP system administrators that would process email acknowledgements to dono
 ### Project Team
 
 * Team Leader: Dean Rose
-* List of Contributors: Kristen Strater
+* List of Contributors: Kristen Strater, Rita Leverett
 
 ### Project Team Accomplishments
 Gather requirements for product and Power of Us Hub documentation
